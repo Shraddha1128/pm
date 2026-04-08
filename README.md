@@ -1,4 +1,4 @@
-# ⚙️ Bosch *Preventive Maintenance Dashboard
+# ⚙️ Bosch Preventive Maintenance Dashboard
 
 A Django-based **Preventive Maintenance Monitoring System** for CNC machines on the Bosch TEF32 shop floor. It visualises spindle temperature, current, following error, and part count in real time — and automatically sends email alerts when thresholds are breached.
 
